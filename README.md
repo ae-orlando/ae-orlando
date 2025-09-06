@@ -28,7 +28,7 @@
 ✅Build strong fundamentals in computer science.<br/>
 ✅Contribute to open-source projects.<br/>
 ✅Create side projects that could grow into startups.<br/>
-✅Document my journey publicly here on GitHub.<br/>
+✅Document my journey publicly here on GitHub<br/>
 
 
 ---
