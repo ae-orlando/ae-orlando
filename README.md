@@ -11,11 +11,10 @@
 ---
 
 ## 🌐 Connect with Me
-[![Instagram](https://img.shields.io/badge/Instagram-%23FF00A0.svg?logo=Instagram&logoColor=white)](https://instagram.com/small_cench)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%2300A0DC.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elisha-orlando-a68bb0382)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=youtube&logoColor=white)](https://www.youtube.com/@CmdOrlando)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2325D366.svg?logo=whatsapp&logoColor=white)](https://wa.me/+254795637768)
-
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/small_cench)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elisha-orlando-a68bb0382)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/@CmdOrlando)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://wa.me/+254795637768)
 ---
 
 ## 💻 Tech Stack
@@ -26,6 +25,8 @@
 ![C](https://img.shields.io/badge/C-00BFFF?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-F89820?style=for-the-badge&logo=openjdk&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-00ED64?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### ⚙️ Tools & Environment
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078D7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -49,14 +50,14 @@
 
 ---
 
-## 📊 GitHub Stats (Glowing Theme)
+## 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=CmdOrlando&theme=radical&hide_border=true&show_icons=true&include_all_commits=true)<br/>
 ![](https://streak-stats.demolab.com?user=CmdOrlando&theme=radical&hide_border=true&ring=FF00E6&fire=FF6EC7)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=CmdOrlando&theme=radical&hide_border=true&layout=compact)
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=CmdOrlando&icon=3&color=6)](https://visitcount.itsvg.in)
+[![Profile Views](https://komarev.com/ghpvc/?username=CmdOrlando&label=Profile%20Views&color=ff00e6&style=for-the-badge)](https://github.com/CmdOrlando)
 
 ---
 
