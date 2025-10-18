@@ -1,48 +1,74 @@
-## Hi there, I'm Orlando
+# 👋 Hi there, I'm Orlando
 
-🎓 I'm a Computer Science student, currently exploring the foundations of software engineering, algorithms, and problem-solving.<br/>
-🧑‍💻 I create web experiences end-to-end, shaping both the interface you see and the logic that powers it.<br/>    
-💡 My long-term mission: build skills, create projects, and leverage tech to reach financial freedom.<br/>
-🌱 Right now, I'm focused on learning **Python, Data Structures, and Git/GitHub**.<br/>
-⚡ I’m curious about **open-source projects, AI, and building tools that solve real-world problems**.
+> ⚡ *Turning code into tools that make life easier.*
+
+🎓 I’m a Computer Science student exploring software engineering, algorithms, and problem-solving.<br/>
+🧑‍💻 I design and build web experiences — from the interface you see to the logic that powers them.<br/>
+💡 My long-term mission: master development, create impactful projects, and achieve financial freedom through tech.<br/>
+🌱 Currently learning **HTML, CSS, JavaScript, and Python**.<br/>
+🚀 Passionate about **open-source, AI, and building tools that solve real-world problems**.
+
+---
+
+## 🌐 Connect with Me
+[![Instagram](https://img.shields.io/badge/Instagram-%23FF00A0.svg?logo=Instagram&logoColor=white)](https://instagram.com/small_cench)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%2300A0DC.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elisha-orlando-a68bb0382)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=youtube&logoColor=white)](https://www.youtube.com/@CmdOrlando)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2325D366.svg?logo=whatsapp&logoColor=white)](https://wa.me/+254795637768)
 
 ---
 
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/small_cench)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elisha-orlando-a68bb0382)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/@CmdOrlando)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://wa.me/+254795637768)
-
-
-
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=CmdOrlando&theme=merko&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=CmdOrlando&theme=merko&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=CmdOrlando&theme=merko&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+## 💻 Tech Stack
+![HTML5](https://img.shields.io/badge/HTML5-FF5733?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-0095FF?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-FCDC00?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow)
+![C](https://img.shields.io/badge/C-00BFFF?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-F89820?style=for-the-badge&logo=openjdk&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-00ED64?style=for-the-badge&logo=mongodb&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078D7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=CmdOrlando&icon=0&color=0)](https://visitcount.itsvg.in)
+
+## 🚀 Featured Projects
+- **Portfolio Website** – Personal site showcasing my projects and growth *(HTML, CSS, JavaScript)*  
+- **Task Tracker CLI** – A Python command-line tool for daily productivity  
+- **CS50 Assignments** – My journey through Harvard’s CS50 course  
+
+---
+
+## 🧩 Currently Learning
+- Deepening front-end skills with **HTML, CSS, and JavaScript**
+- Building backend foundations using **Python**
+- Mastering **Git/GitHub** workflows and open-source contribution
+
+---
+
+## 📊 GitHub Stats (Glowing Theme)
+![](https://github-readme-stats.vercel.app/api?username=CmdOrlando&theme=radical&hide_border=true&show_icons=true&include_all_commits=true)<br/>
+![](https://streak-stats.demolab.com?user=CmdOrlando&theme=radical&hide_border=true&ring=FF00E6&fire=FF6EC7)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=CmdOrlando&theme=radical&hide_border=true&layout=compact)
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=CmdOrlando&icon=3&color=6)](https://visitcount.itsvg.in)
 
 ---
 
 ### 📈 My Goals
-✅Build strong fundamentals in computer science.<br/>
-✅Contribute to open-source projects.<br/>
-✅Create side projects that could grow into startups.<br/>
-✅Document my journey publicly here on GitHub<br/>
-
+✅ Build strong fundamentals in computer science.<br/>
+✅ Contribute to open-source projects.<br/>
+✅ Create side projects that grow into startups.<br/>
+✅ Document my journey publicly here on GitHub.<br/>
 
 ---
 
-💬 Always open to learning and collaborating. If you’re working on something exciting, let’s connect!
+💬 Always open to learning and collaborating.  
+If you’re working on something exciting — let’s connect!  
 
-### 🌐 Connect with me
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/small_cench/)<br/>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elisha-orlando-a68bb0382)<br/>
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://wa.me/+254795637768)<br/>
-
+> ✨ _"Code. Learn. Build. Repeat."_ ✨
