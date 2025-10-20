@@ -62,4 +62,4 @@
 💬 Always open to learning and collaborating.  
 If you’re working on something exciting — let’s connect!  
 
-> ✨ _"Code. Learn. Build. Repeat."_ ✨
+> ✨ _"Code. Learn. Build, Repeat."_ ✨
