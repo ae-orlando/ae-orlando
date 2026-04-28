@@ -45,9 +45,13 @@
 ---
 
 ## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=ae-orlando&theme=radical&hide_border=true&show_icons=true&include_all_commits=true)<br/>
-![](https://streak-stats.demolab.com?user=ae-orlando&theme=radical&hide_border=true&ring=FF00E6&fire=FF6EC7)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ae-orlando&theme=radical&hide_border=true&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ae-orlando&theme=radical&hide_border=true&show_icons=true&include_all_commits=true" alt="GitHub Stats" />
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=ae-orlando&theme=radical&hide_border=true&ring=FF00E6&fire=FF6EC7" alt="GitHub Streak" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ae-orlando&theme=radical&hide_border=true&layout=compact" alt="Most Used Languages" />
+</p>
 
 ---
 
