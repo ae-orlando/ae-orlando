@@ -9,7 +9,6 @@
 <p><b>🌱</b> Currently sharpening my skills in <b>HTML</b>, <b>CSS</b>, <b>JavaScript</b>, <b>Python</b>, and <b>C++</b>, while exploring open-source and AI.</p>
 <p><b>🎯</b> Long-term mission: master the craft of software development, ship impactful projects, and build technology that creates lasting value.</p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=ae-orlando&color=blueviolet&style=flat-square&label=Profile+Views)
 ![Open Source](https://img.shields.io/badge/Open%20Source-%23F05033?style=flat-square&logo=opensourceinitiative&logoColor=white)
 ![AI](https://img.shields.io/badge/AI-%237C3AED?style=flat-square&logo=tensorflow&logoColor=white)
 ![Problem Solver](https://img.shields.io/badge/Problem%20Solver-%2300C853?style=flat-square&logo=target&logoColor=white)
