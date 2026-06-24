@@ -1,12 +1,19 @@
-# 👋 Hi there, I'm Orlando
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=32&duration=2500&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&height=80&lines=Hi+%F0%9F%91%8B%2C+I'm+Orlando" alt="Typing SVG" />
+</div>
 
 > ⚡ *Turning code into tools that make life easier.*
 
-🎓 I’m a Computer Science student exploring software engineering, algorithms, and problem-solving.<br/>
-🧑‍💻 I design and build web experiences — from the interface you see to the logic that powers them.<br/>
-💡 My long-term mission: master development, create impactful projects, and achieve financial freedom through tech.<br/>
-🌱 Currently learning **HTML, CSS, JavaScript, and Python**.<br/>
-🚀 Passionate about **open-source, AI, and building tools that solve real-world problems**.
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=700&size=18&duration=800&pause=99999999&color=6C63FF&vCenter=true&width=800&height=35&lines=%F0%9F%8E%93+Computer+Science+student+with+a+passion+for+software+engineering%2C+algorithms%2C+and+solving+real-world+problems." alt="🎓 Computer Science student with a passion for software engineering, algorithms, and solving real-world problems." /><br/>
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=700&size=18&duration=800&pause=99999999&color=6C63FF&vCenter=true&width=800&height=35&lines=%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB+I+design+and+build+full-stack+web+experiences+%E2%80%94+from+polished+interfaces+to+the+backend+logic+that+powers+them." alt="🧑‍💻 I design and build full-stack web experiences — from polished interfaces to the backend logic that powers them." /><br/>
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=700&size=18&duration=800&pause=99999999&color=6C63FF&vCenter=true&width=350&height=35&lines=%F0%9F%8C%B1+Currently+sharpening+my+skills+in+" alt="🌱 Currently sharpening my skills in " /> <img src="https://img.shields.io/badge/HTML-00E5FF?style=flat-square&logo=html5&logoColor=000" alt="HTML" />, <img src="https://img.shields.io/badge/CSS-FF00E5?style=flat-square&logo=css3&logoColor=fff" alt="CSS" />, <img src="https://img.shields.io/badge/JS-FFD700?style=flat-square&logo=javascript&logoColor=000" alt="JavaScript" />, <img src="https://img.shields.io/badge/Python-00BFFF?style=flat-square&logo=python&logoColor=fff" alt="Python" />, and <img src="https://img.shields.io/badge/C%2B%2B-FF69B4?style=flat-square&logo=c%2B%2B&logoColor=fff" alt="C++" /> <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=700&size=18&duration=800&pause=99999999&color=6C63FF&vCenter=true&width=370&height=35&lines=%2C+while+exploring+open-source+and+AI." alt=", while exploring open-source and AI." /><br/>
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=700&size=18&duration=800&pause=99999999&color=6C63FF&vCenter=true&width=800&height=35&lines=%F0%9F%8E%AF+Long-term+mission%3A+master+the+craft+of+software+development%2C+ship+impactful+projects%2C+and+build+technology+that+creates+lasting+value." alt="🎯 Long-term mission: master the craft of software development, ship impactful projects, and build technology that creates lasting value." />
+
+![Profile Views](https://komarev.com/ghpvc/?username=ae-orlando&color=blueviolet&style=flat-square&label=Profile+Views)
+![Open Source](https://img.shields.io/badge/Open%20Source-%23F05033?style=flat-square&logo=opensourceinitiative&logoColor=white)
+![AI](https://img.shields.io/badge/AI-%237C3AED?style=flat-square&logo=tensorflow&logoColor=white)
+![Problem Solver](https://img.shields.io/badge/Problem%20Solver-%2300C853?style=flat-square&logo=target&logoColor=white)
+![Lifelong Learner](https://img.shields.io/badge/Lifelong%20Learner-%23FF6D00?style=flat-square&logo=bookstack&logoColor=white)
 
 ---
 
@@ -38,32 +45,47 @@
 ---
 
 ## 🧩 Currently Learning
-- Deepening front-end skills with **HTML, CSS, and JavaScript**
-- Building backend foundations using **Python**
-- Mastering **Git/GitHub** workflows and open-source contribution
+
+![HTML5](https://img.shields.io/badge/HTML5-%23FF5733?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%230095FF?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23FCDC00?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=yellow)
+![C++](https://img.shields.io/badge/C%2B%2B-%2300599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white)
+![Open Source](https://img.shields.io/badge/Open%20Source-%23FF6F00?style=for-the-badge&logo=opensourceinitiative&logoColor=white)
 
 ---
 
 ## 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ae-orlando&theme=radical&hide_border=true&show_icons=true&include_all_commits=true" alt="GitHub Stats" />
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=ae-orlando&theme=radical&hide_border=true&ring=FF00E6&fire=FF6EC7" alt="GitHub Streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ae-orlando&theme=radical&hide_border=true&layout=compact" alt="Most Used Languages" />
-</p>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=ae-orlando&theme=radical&hide_border=true&show_icons=true&include_all_commits=true" alt="GitHub Stats" />
+      <br/>
+      <img src="https://streak-stats.demolab.com?user=ae-orlando&theme=radical&hide_border=true&ring=FF00E6&fire=FF6EC7" alt="GitHub Streak" />
+      <br/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ae-orlando&theme=radical&hide_border=true&layout=compact" alt="Most Used Languages" />
+    </td>
+    <td>
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=ae-orlando&theme=radical&hide_border=true&area=true&radius=8&width=450" alt="Contribution Graph" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 📈 My Goals
-✅ Build strong fundamentals in computer science.<br/>
-✅ Contribute to open-source projects.<br/>
-✅ Create side projects that grow into startups.<br/>
-✅ Document my journey publicly here on GitHub.<br/>
+### 🎯 Goals & Ambitions
+
+![CS Fundamentals](https://img.shields.io/badge/CS%20Fundamentals-%236C63FF?style=for-the-badge&logo=codefactor&logoColor=white)
+![Open Source Contributor](https://img.shields.io/badge/Open%20Source%20Contributor-%23FF6F00?style=for-the-badge&logo=opensourceinitiative&logoColor=white)
+![Side Projects → Startups](https://img.shields.io/badge/Side%20Projects%20%E2%86%92%20Startups-%2300C853?style=for-the-badge&logo=target&logoColor=white)
+![Public Journey](https://img.shields.io/badge/Public%20Journey-%231976D2?style=for-the-badge&logo=github&logoColor=white)
+![Continuous Growth](https://img.shields.io/badge/Continuous%20Growth-%23E91E63?style=for-the-badge&logo=growth&logoColor=white)
 
 ---
 
-💬 Always open to learning and collaborating.  
-If you’re working on something exciting — let’s connect!  
+💬 I'm always open to new opportunities, collaborations, and conversations.  
+If you're working on something interesting — reach out, I'd love to connect.  
 
-> ✨ _"Code. Learn. Build, Repeat."_ ✨
+> ✨ _Code. Learn. Build. Repeat._ ✨
