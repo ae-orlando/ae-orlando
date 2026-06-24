@@ -4,10 +4,10 @@
 
 > ⚡ *Turning code into tools that make life easier.*
 
-<h4><b>🎓</b> Computer Science student with a passion for software engineering, algorithms, and solving real-world problems.</h4>
-<h4><b>🧑‍💻</b> I design and build full-stack web experiences — from polished interfaces to the backend logic that powers them.</h4>
-<h4><b>🌱</b> Currently sharpening my skills in <b>HTML</b>, <b>CSS</b>, <b>JavaScript</b>, <b>Python</b>, and <b>C++</b>, while exploring open-source and AI.</h4>
-<h4><b>🎯</b> Long-term mission: master the craft of software development, ship impactful projects, and build technology that creates lasting value.</h4>
+<h2><b>🎓</b> Computer Science student with a passion for software engineering, algorithms, and solving real-world problems.</h2>
+<h2><b>🧑‍💻</b> I design and build full-stack web experiences — from polished interfaces to the backend logic that powers them.</h2>
+<h2><b>🌱</b> Currently sharpening my skills in <b>HTML</b>, <b>CSS</b>, <b>JavaScript</b>, <b>Python</b>, and <b>C++</b>, while exploring open-source and AI.</h2>
+<h2><b>🎯</b> Long-term mission: master the craft of software development, ship impactful projects, and build technology that creates lasting value.</h2>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ae-orlando&color=blueviolet&style=flat-square&label=Profile+Views)
 ![Open Source](https://img.shields.io/badge/Open%20Source-%23F05033?style=flat-square&logo=opensourceinitiative&logoColor=white)
