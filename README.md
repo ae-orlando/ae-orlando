@@ -4,10 +4,10 @@
 
 > ⚡ *Turning code into tools that make life easier.*
 
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=700&size=18&duration=800&pause=99999999&color=6C63FF&vCenter=true&width=800&height=35&lines=%F0%9F%8E%93+Computer+Science+student+with+a+passion+for+software+engineering%2C+algorithms%2C+and+solving+real-world+problems." alt="🎓 Computer Science student with a passion for software engineering, algorithms, and solving real-world problems." /><br/>
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=700&size=18&duration=800&pause=99999999&color=6C63FF&vCenter=true&width=800&height=35&lines=%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB+I+design+and+build+full-stack+web+experiences+%E2%80%94+from+polished+interfaces+to+the+backend+logic+that+powers+them." alt="🧑‍💻 I design and build full-stack web experiences — from polished interfaces to the backend logic that powers them." /><br/>
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=700&size=18&duration=800&pause=99999999&color=6C63FF&vCenter=true&width=800&height=35&lines=%F0%9F%8C%B1+Currently+sharpening+my+skills+in+HTML%2C+CSS%2C+JavaScript%2C+Python%2C+and+C%2B%2B%2C+while+exploring+open-source+and+AI." alt="🌱 Currently sharpening my skills in HTML, CSS, JavaScript, C++, and Python, while exploring open-source and AI." /><br/>
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=700&size=18&duration=800&pause=99999999&color=6C63FF&vCenter=true&width=800&height=35&lines=%F0%9F%8E%AF+Long-term+mission%3A+master+the+craft+of+software+development%2C+ship+impactful+projects%2C+and+build+technology+that+creates+lasting+value." alt="🎯 Long-term mission: master the craft of software development, ship impactful projects, and build technology that creates lasting value." />
+<h4><b>🎓</b> Computer Science student with a passion for software engineering, algorithms, and solving real-world problems.</h4>
+<h4><b>🧑‍💻</b> I design and build full-stack web experiences — from polished interfaces to the backend logic that powers them.</h4>
+<h4><b>🌱</b> Currently sharpening my skills in <b>HTML</b>, <b>CSS</b>, <b>JavaScript</b>, <b>Python</b>, and <b>C++</b>, while exploring open-source and AI.</h4>
+<h4><b>🎯</b> Long-term mission: master the craft of software development, ship impactful projects, and build technology that creates lasting value.</h4>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ae-orlando&color=blueviolet&style=flat-square&label=Profile+Views)
 ![Open Source](https://img.shields.io/badge/Open%20Source-%23F05033?style=flat-square&logo=opensourceinitiative&logoColor=white)
