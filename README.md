@@ -23,19 +23,19 @@
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-%2325D366.svg?logo=whatsapp&logoColor=white)](https://wa.me/+254795637768)
 ---
 
-<div align="center">
+<div align="left">
 
 ## ⭐ Featured Repos
 
-<a href="https://github.com/ae-orlando/NikaVim">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ae-orlando&repo=NikaVim&theme=radical&hide_border=true&show_owner=true" alt="NikaVim" />
-</a>
-<a href="https://github.com/ae-orlando/bachiruCoffeeHouse">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ae-orlando&repo=bachiruCoffeeHouse&theme=radical&hide_border=true&show_owner=true" alt="BachiruCoffeeHouse" />
-</a>
-<a href="https://github.com/ae-orlando/emirates-web">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ae-orlando&repo=emirates-web&theme=radical&hide_border=true&show_owner=true" alt="Emirates Web" />
-</a>
+<table>
+  <tr>
+    <td><a href="https://github.com/ae-orlando/NikaVim"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ae-orlando&repo=NikaVim&theme=radical&hide_border=true&show_owner=true" alt="NikaVim" /></a></td>
+    <td><a href="https://github.com/ae-orlando/bachiruCoffeeHouse"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ae-orlando&repo=bachiruCoffeeHouse&theme=radical&hide_border=true&show_owner=true" alt="BachiruCoffeeHouse" /></a></td>
+  </tr>
+  <tr>
+    <td colspan="2"><a href="https://github.com/ae-orlando/emirates-web"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ae-orlando&repo=emirates-web&theme=radical&hide_border=true&show_owner=true" alt="Emirates Web" /></a></td>
+  </tr>
+</table>
 
 </div>
 
