@@ -24,6 +24,7 @@
 **🎓 CS student → Software Engineer in progress.** I care about fundamentals, algorithms, and shipping real tools — not just tutorials.
 
 **🧑‍💻 What I do now:**
+
 - Full-stack web — polished UI to backend logic
 - Linux ricing as a craft — Arch + Hyprland + matugen dynamic theming
 - Neovim distro maintainer — LazyVim-based, aesthetic-first
@@ -38,16 +39,16 @@
 
 ```yaml
 # $ fastfetch — yoru
-OS:       Arch Linux x86_64
-DE:       Hyprland (HyprYoru 🌙)
-Shell:    zsh + p10k + fzf + eza
-Editor:   YoruNeovim (LazyVim)
+OS: Arch Linux x86_64
+DE: Hyprland (HyprYoru 🌙)
+Shell: zsh + p10k + fzf + eza
+Editor: YoruNeovim (LazyVim)
 Terminal: kitty + Tmux
-Font:     JetBrainsMono Nerd Font
-Theme:    Yoru #FFB692 on #1A120E
-Palette:  matugen → kitty/waybar/
-          rofi/swaync/nvim sync
-DB:       PostgreSQL + psql + pgAdmin
+Font: JetBrainsMono Nerd Font
+Theme: Yoru #FFB692 on #1A120E
+Palette: matugen → kitty/waybar/
+    rofi/swaync/nvim sync
+DB: PostgreSQL + psql + pgAdmin
 ```
 
 </td>
@@ -61,6 +62,7 @@ DB:       PostgreSQL + psql + pgAdmin
 <div align="center">
 
 ### Languages
+
 [![Skills](https://skillicons.dev/icons?i=html,css,js,py,cpp,bash,postgres,git,linux,github&theme=dark&perline=10)](https://skillicons.dev)
 
 ![HTML5](https://img.shields.io/badge/HTML5-1A120E?style=for-the-badge&logo=html5&logoColor=FFB692)
@@ -72,12 +74,17 @@ DB:       PostgreSQL + psql + pgAdmin
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1A120E?style=for-the-badge&logo=postgresql&logoColor=FFB692)
 
 ### Editor & Shell
+
+[![Codding](https://skillicons.dev/icons?i=neovim,zsh,tmux,kitty)](https://skillicons.dev)
 ![Neovim](https://img.shields.io/badge/Neovim-1A120E?style=for-the-badge&logo=neovim&logoColor=FFB692)
 ![Zsh](https://img.shields.io/badge/Zsh-1A120E?style=for-the-badge&logo=zsh&logoColor=FFB692)
 ![Tmux](https://img.shields.io/badge/Tmux-1A120E?style=for-the-badge&logo=tmux&logoColor=FFB692)
 ![Kitty](https://img.shields.io/badge/Kitty-1A120E?style=for-the-badge&logo=kitty&logoColor=FFB692)
 
-### Linux & Daily CLI — the Yoru standout
+### Linux & Daily CLI — the Yoru aestic
+
+[![Evironment](https://skillicons.dev/icons?i=arch,hyprland,github-cli,eza,btop,fastfetch,matugen,rofi,fzf)](https://skillicons.dev)
+
 ![Arch](https://img.shields.io/badge/Arch-1A120E?style=for-the-badge&logo=archlinux&logoColor=FFB692)
 ![Hyprland](https://img.shields.io/badge/Hyprland-1A120E?style=for-the-badge&logo=hyprland&logoColor=FFB692)
 ![GitHub CLI](https://img.shields.io/badge/gh_CLI-1A120E?style=for-the-badge&logo=github&logoColor=FFB692)
@@ -112,12 +119,12 @@ DB:       PostgreSQL + psql + pgAdmin
 
 </div>
 
-| Project | What it is | Tech |
-|---|---|---|
-| [🌙 HyprYoru](https://github.com/ae-orlando/HyprYoru) | Feature-rich Arch + Hyprland rice. Dynamic wallpaper theming, beautiful UI, terminal follows system. | `Shell` `Hyprland` `matugen` `Waybar` `Rofi` `Kitty` |
-| [🌙 YoruNeovim](https://github.com/ae-orlando/YoruNeovim) | Aesthetic Neovim distro on LazyVim. Matugen system colors + Catppuccin Mocha fallback, full lazy.nvim power. | `Lua` `Neovim` `lazy.nvim` `matugen` |
-| [🛠️ fedora-dev-setup-script](https://github.com/ae-orlando/fedora-dev-setup-script) | Fresh Fedora → full dev env (kitty + zsh) + timestamped backup/rollback script. | `Bash` `Zsh` `Kitty` `Fedora` |
-| [☕ bachiruCoffeeHouse](https://github.com/ae-orlando/bachiruCoffeeHouse) | Coffee-shop landing page — warm, polished, responsive. | `HTML` `CSS` `JavaScript` |
+| Project                                                                             | What it is                                                                                                   | Tech                                                 |
+| ----------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------- |
+| [🌙 HyprYoru](https://github.com/ae-orlando/HyprYoru)                               | Feature-rich Arch + Hyprland rice. Dynamic wallpaper theming, beautiful UI, terminal follows system.         | `Shell` `Hyprland` `matugen` `Waybar` `Rofi` `Kitty` |
+| [🌙 YoruNeovim](https://github.com/ae-orlando/YoruNeovim)                           | Aesthetic Neovim distro on LazyVim. Matugen system colors + Catppuccin Mocha fallback, full lazy.nvim power. | `Lua` `Neovim` `lazy.nvim` `matugen`                 |
+| [🛠️ fedora-dev-setup-script](https://github.com/ae-orlando/fedora-dev-setup-script) | Fresh Fedora → full dev env (kitty + zsh) + timestamped backup/rollback script.                              | `Bash` `Zsh` `Kitty` `Fedora`                        |
+| [☕ bachiruCoffeeHouse](https://github.com/ae-orlando/bachiruCoffeeHouse)           | Coffee-shop landing page — warm, polished, responsive.                                                       | `HTML` `CSS` `JavaScript`                            |
 
 > **How Yoru theming works:** `wallpaper → matugen → hypr + kitty + waybar + rofi + swaync + btop + nvim` in one `set-wall.sh` run. Change wallpaper, whole system repaints. That's the demo worth starring.
 
@@ -208,6 +215,6 @@ DB:       PostgreSQL + psql + pgAdmin
 
 <div align="center">
 
-✨ <i>Code. Learn. Build. Repeat.</i> ✨ — <b>🌙 Yoru</b> `#FFB692` on `#1A120E`
+✨ <i>Code. Learn. Build. Repeat.</i> ✨ — <b>🌙 Yoru</b>
 
 </div>
