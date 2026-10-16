@@ -60,13 +60,13 @@ DB: PostgreSQL + psql + pgAdmin
 
 ### Languages
 
-[![Skills](https://skillicons.dev/icons?i=html,css,js,git,py,cpp,bash,postgres,linux,github,markdown&theme=dark&perline=11)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=html,css,js,git,py,c,bash,postgres,linux,github,markdown&theme=dark&perline=11)](https://skillicons.dev)
 
 ![HTML5](https://img.shields.io/badge/HTML5-1A120E?style=for-the-badge&logo=html5&logoColor=FFB692)
 ![CSS3](https://img.shields.io/badge/CSS3-1A120E?style=for-the-badge&logo=css3&logoColor=FFB692)
 ![JavaScript](https://img.shields.io/badge/JavaScript-1A120E?style=for-the-badge&logo=javascript&logoColor=FFB692)
 ![Python](https://img.shields.io/badge/Python-1A120E?style=for-the-badge&logo=python&logoColor=FFB692)
-![C++](https://img.shields.io/badge/C++-1A120E?style=for-the-badge&logo=cplusplus&logoColor=FFB692)
+![C](https://img.shields.io/badge/C-1A120E?style=for-the-badge&logo=c&logoColor=FFB692)
 ![Bash](https://img.shields.io/badge/Bash_Scripting-1A120E?style=for-the-badge&logo=gnubash&logoColor=FFB692)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1A120E?style=for-the-badge&logo=postgresql&logoColor=FFB692)
 ![Markdown](https://img.shields.io/badge/Markdown-1A120E?style=for-the-badge&logo=markdown&logoColor=FFB692)
