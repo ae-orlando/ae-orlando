@@ -22,6 +22,9 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ae-orlando
 
+      - name: Recolor 3D to Yoru palette
+        run: python3 .github/scripts/recolor-3d.py profile-3d-contrib/profile-night-green.svg
+
       - uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "chore: update 3d contrib [skip ci]"
