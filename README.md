@@ -77,12 +77,10 @@ DB: PostgreSQL + psql + pgAdmin
 
 [![Coding](https://skillicons.dev/icons?i=git,github,arch,neovim&theme=dark&perline=4)](https://skillicons.dev)
 
-<p>
 ![Neovim](https://img.shields.io/badge/Neovim-1A120E?style=for-the-badge&logo=neovim&logoColor=FFB692)
 ![Zsh](https://img.shields.io/badge/Zsh-1A120E?style=for-the-badge&logo=zsh&logoColor=FFB692)
 ![Tmux](https://img.shields.io/badge/Tmux-1A120E?style=for-the-badge&logo=tmux&logoColor=FFB692)
 ![Kitty](https://img.shields.io/badge/Kitty-1A120E?style=for-the-badge&logo=kitty&logoColor=FFB692)
-</p>
 
 ### Linux & Daily CLI — the Yoru aesthetic
 
