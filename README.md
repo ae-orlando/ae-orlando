@@ -75,7 +75,8 @@ DB: PostgreSQL + psql + pgAdmin
 
 ### Editor & Shell
 
-[![Coding](https://skillicons.dev/icons?i=git,github,arch,neovim&theme=dark&perline=4)](https://skillicons.dev)
+[![Codding](https://skillicons.dev/icons?i=git,github,arch,neovim&theme=dark&perline=4)](https://skillicons.dev)
+
 ![Neovim](https://img.shields.io/badge/Neovim-1A120E?style=for-the-badge&logo=neovim&logoColor=FFB692)
 ![Zsh](https://img.shields.io/badge/Zsh-1A120E?style=for-the-badge&logo=zsh&logoColor=FFB692)
 ![Tmux](https://img.shields.io/badge/Tmux-1A120E?style=for-the-badge&logo=tmux&logoColor=FFB692)
@@ -128,7 +129,7 @@ DB: PostgreSQL + psql + pgAdmin
 
 ---
 
-## 📊 GitHub Dashboard — Yoru themed
+## 📊 GitHub Dashboard
 
 <div align="center">
 
@@ -144,7 +145,7 @@ DB: PostgreSQL + psql + pgAdmin
 
 ---
 
-## 🐍 Contributions — snake + 3D
+## 🐍 Contributions
 
 <div align="center">
 
@@ -153,8 +154,6 @@ DB: PostgreSQL + psql + pgAdmin
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ae-orlando/ae-orlando/output/github-snake.svg" />
   <img src="https://raw.githubusercontent.com/ae-orlando/ae-orlando/output/github-snake.svg" alt="Contribution snake — runs every 6h, Yoru palette" />
 </picture>
-
-<p><sub>Snake auto-updates via <code>.github/workflows/snake.yml</code> • First run populates after merge</sub></p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg" />
