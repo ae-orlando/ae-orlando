@@ -139,10 +139,6 @@ DB: PostgreSQL + psql + pgAdmin
 
 <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ae-orlando&title_color=FFB692&text_color=F0DFD8&bg_color=1A120E&hide_border=true&layout=compact&langs_count=8&border_radius=10" alt="Top Languages" />
 
-<div style="background:#1A120E;border-radius:10px;padding:12px;">
-<img width="100%" src="https://ghchart.rshah.org/C2410C/ae-orlando" alt="Contribution Chart — high contrast burnt orange" />
-</div>
-
 </div>
 
 ---
@@ -157,7 +153,7 @@ DB: PostgreSQL + psql + pgAdmin
   <img src="https://raw.githubusercontent.com/ae-orlando/ae-orlando/output/github-snake.svg" alt="Contribution snake — runs every 6h, Yoru palette" />
 </picture>
 
-<img src="https://raw.githubusercontent.com/ae-orlando/ae-orlando/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution profile — updates daily" width="100%" />
+<img src="https://raw.githubusercontent.com/ae-orlando/ae-orlando/main/profile-3d-contrib/profile-night-green.svg" alt="3D contribution profile — updates daily" width="100%" />
 
 <p><sub>3D profile auto-updates via <code>.github/workflows/profile-3d.yml</code></sub></p>
 
