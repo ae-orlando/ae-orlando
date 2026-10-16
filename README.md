@@ -134,12 +134,14 @@ DB: PostgreSQL + psql + pgAdmin
 <div align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ae-orlando&title_color=FFB692&icon_color=FFB692&text_color=F0DFD8&bg_color=1A120E&hide_border=true&show_icons=true&include_all_commits=true&border_radius=10" alt="GitHub Stats" />
+
 <img width="49%" src="https://streak-stats.demolab.com?user=ae-orlando&background=1A120E&ring=FFB692&fire=FFB692&currStreakLabel=FFB692&sideLabels=F0DFD8&dates=A08D85&hide_border=true&border_radius=10" alt="Streak" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ae-orlando&title_color=FFB692&text_color=F0DFD8&bg_color=1A120E&hide_border=true&layout=compact&langs_count=8&border_radius=10" alt="Top Languages" />
-<img width="49%" src="https://github-profile-trophy.vercel.app/?username=ae-orlando&theme=gruvbox&no-frame=true&margin-w=8" alt="Trophies" />
+<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ae-orlando&title_color=FFB692&text_color=F0DFD8&bg_color=1A120E&hide_border=true&layout=compact&langs_count=8&border_radius=10" alt="Top Languages" />
 
-<img width="100%" src="https://ghchart.rshah.org/FFB692/ae-orlando" alt="Contribution Chart — Yoru peach" />
+<div style="background:#1A120E;border-radius:10px;padding:12px;margin-top:8px;">
+<img width="100%" src="https://ghchart.rshah.org/E76F51/ae-orlando" alt="Contribution Chart — Yoru burnt peach on dark card" />
+</div>
 
 </div>
 
@@ -155,7 +157,7 @@ DB: PostgreSQL + psql + pgAdmin
   <img src="https://raw.githubusercontent.com/ae-orlando/ae-orlando/output/github-snake.svg" alt="Contribution snake — runs every 6h, Yoru palette" />
 </picture>
 
-<img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution profile — updates daily" width="100%" />
+<img src="https://raw.githubusercontent.com/ae-orlando/ae-orlando/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution profile — updates daily" width="100%" />
 
 <p><sub>3D profile auto-updates via <code>.github/workflows/profile-3d.yml</code></sub></p>
 
