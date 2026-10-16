@@ -63,7 +63,7 @@ DB: PostgreSQL + psql + pgAdmin
 
 ### Languages
 
-[![Skills](https://skillicons.dev/icons?i=html,css,js,py,cpp,bash,postgres,git,linux,github&theme=dark&perline=10)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=html,css,js,py,cpp,bash,postgres,linux&theme=dark&perline=8)](https://skillicons.dev)
 
 ![HTML5](https://img.shields.io/badge/HTML5-1A120E?style=for-the-badge&logo=html5&logoColor=FFB692)
 ![CSS3](https://img.shields.io/badge/CSS3-1A120E?style=for-the-badge&logo=css3&logoColor=FFB692)
@@ -75,15 +75,13 @@ DB: PostgreSQL + psql + pgAdmin
 
 ### Editor & Shell
 
-[![Codding](https://skillicons.dev/icons?i=neovim,zsh,tmux,kitty)](https://skillicons.dev)
+[![Coding](https://skillicons.dev/icons?i=git,github,arch,neovim&theme=dark&perline=4)](https://skillicons.dev)
 ![Neovim](https://img.shields.io/badge/Neovim-1A120E?style=for-the-badge&logo=neovim&logoColor=FFB692)
 ![Zsh](https://img.shields.io/badge/Zsh-1A120E?style=for-the-badge&logo=zsh&logoColor=FFB692)
 ![Tmux](https://img.shields.io/badge/Tmux-1A120E?style=for-the-badge&logo=tmux&logoColor=FFB692)
 ![Kitty](https://img.shields.io/badge/Kitty-1A120E?style=for-the-badge&logo=kitty&logoColor=FFB692)
 
-### Linux & Daily CLI — the Yoru aestic
-
-[![Evironment](https://skillicons.dev/icons?i=arch,hyprland,github-cli,eza,btop,fastfetch,matugen,rofi,fzf)](https://skillicons.dev)
+### Linux & Daily CLI — the Yoru aesthetic
 
 ![Arch](https://img.shields.io/badge/Arch-1A120E?style=for-the-badge&logo=archlinux&logoColor=FFB692)
 ![Hyprland](https://img.shields.io/badge/Hyprland-1A120E?style=for-the-badge&logo=hyprland&logoColor=FFB692)
