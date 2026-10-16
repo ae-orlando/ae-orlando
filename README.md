@@ -1,106 +1,213 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FFB692&height=190&section=header&text=Elisha%20Orlando&fontSize=52&fontColor=1A120E&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Software%20Engineer%20%E2%80%A2%20Full-Stack%20%E2%80%A2%20Yoru%20%F0%9F%8C%99&descAlignY=60&descSize=17&fontAlign=center&descAlign=center" alt="header" />
+
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=32&duration=2500&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&height=80&lines=Hi+%F0%9F%91%8B%2C+I'm+Orlando" alt="Typing SVG" />
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=FFB692&center=true&vCenter=true&width=720&lines=Aspiring+Software+Engineer;Full-Stack+Developer+%7C+Linux+Ricer;Hyprland+%2B+Neovim+%2B+Arch+%E2%80%94+the+Yoru+way+%F0%9F%8C%99;Code.+Learn.+Build.+Repeat." alt="Typing SVG" />
+
+<p><b>Turning code into tools that make life easier.</b> I build full-stack web experiences and maintain a warm-dark Linux universe — <b>HyprYoru 🌙</b> + <b>YoruNeovim</b> — where every app follows the wallpaper.</p>
+
+<img src="https://komarev.com/ghpvc/?username=ae-orlando&color=FFB692&style=flat-square&label=PROFILE+VIEWS" alt="profile views" />
+<img src="https://img.shields.io/github/followers/ae-orlando?color=FFB692&style=flat-square&label=FOLLOWERS&logo=github" alt="followers" />
+<img src="https://img.shields.io/badge/Open_Source-1A120E?style=flat-square&logo=opensourceinitiative&logoColor=FFB692" alt="open source" />
+<img src="https://img.shields.io/badge/Focus-Full--Stack_%2B_Ricing-1A120E?style=flat-square&logo=target&logoColor=FFB692" alt="focus" />
+
 </div>
 
-> ⚡ *Turning code into tools that make life easier.*
-
-<p><b>🎓</b> Computer Science student with a passion for software engineering, algorithms, and solving real-world problems.</p>
-<p><b>🧑‍💻</b> I design and build full-stack web experiences — from polished interfaces to the backend logic that powers them.</p>
-<p><b>🌱</b> Currently sharpening my skills in <b>HTML</b>, <b>CSS</b>, <b>JavaScript</b>, <b>Python</b>, and <b>C++</b>, while exploring open-source and AI.</p>
-<p><b>🎯</b> Long-term mission: master the craft of software development, ship impactful projects, and build technology that creates lasting value.</p>
-
-![Open Source](https://img.shields.io/badge/Open%20Source-%23F05033?style=flat-square&logo=opensourceinitiative&logoColor=white)
-![AI](https://img.shields.io/badge/AI-%237C3AED?style=flat-square&logo=tensorflow&logoColor=white)
-![Problem Solver](https://img.shields.io/badge/Problem%20Solver-%2300C853?style=flat-square&logo=target&logoColor=white)
-![Lifelong Learner](https://img.shields.io/badge/Lifelong%20Learner-%23FF6D00?style=flat-square&logo=bookstack&logoColor=white)
-
 ---
 
-## 🌐 Connect with Me
-[![Instagram](https://img.shields.io/badge/Instagram-%23FF00A0.svg?logo=Instagram&logoColor=white)](https://instagram.com/small_cench)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%2300A0DC.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elisha-orlando-a68bb0382)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=youtube&logoColor=white)](https://www.youtube.com/@CmdOrlando)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2325D366.svg?logo=whatsapp&logoColor=white)](https://wa.me/+254795637768)
----
-
-<div align="left">
-
-## ⭐ Featured Repos
+## 🌙 About Me
 
 <table>
-  <tr>
-    <td><a href="https://github.com/ae-orlando/NikaVim"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ae-orlando&repo=NikaVim&theme=radical&hide_border=true&show_owner=true" alt="NikaVim" /></a></td>
-    <td><a href="https://github.com/ae-orlando/bachiruCoffeeHouse"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ae-orlando&repo=bachiruCoffeeHouse&theme=radical&hide_border=true&show_owner=true" alt="BachiruCoffeeHouse" /></a></td>
-  </tr>
-  <tr>
-    <td colspan="2"><a href="https://github.com/ae-orlando/emirates-web"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ae-orlando&repo=emirates-web&theme=radical&hide_border=true&show_owner=true" alt="Emirates Web" /></a></td>
-  </tr>
+<tr>
+<td width="58%">
+
+**🎓 CS student → Software Engineer in progress.** I care about fundamentals, algorithms, and shipping real tools — not just tutorials.
+
+**🧑‍💻 What I do now:**
+- Full-stack web — polished UI to backend logic
+- Linux ricing as a craft — Arch + Hyprland + matugen dynamic theming
+- Neovim distro maintainer — LazyVim-based, aesthetic-first
+- Building in public, learning open-source
+
+**🎯 Mission:** master the craft, ship impactful projects, build tech with lasting value.
+
+**📍 Nairobi, KE (EAT) • Open to internships, collabs & open-source**
+
+</td>
+<td width="42%">
+
+```yaml
+# $ fastfetch — yoru
+OS:       Arch Linux x86_64
+DE:       Hyprland (HyprYoru 🌙)
+Shell:    zsh + p10k + fzf + eza
+Editor:   YoruNeovim (LazyVim)
+Terminal: kitty + Tmux
+Font:     JetBrainsMono Nerd Font
+Theme:    Yoru #FFB692 on #1A120E
+Palette:  matugen → kitty/waybar/
+          rofi/swaync/nvim sync
+DB:       PostgreSQL + psql + pgAdmin
+```
+
+</td>
+</tr>
 </table>
 
-</div>
+---
 
 ## 💻 Tech Stack
-### 🌐 Stack
-![HTML](https://img.shields.io/badge/HTML5-FF5733?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-0095FF?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-FCDC00?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow)
-![C](https://img.shields.io/badge/C-00BFFF?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-F89820?style=for-the-badge&logo=openjdk&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-00ED64?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### ⚙️ Tools & Environment
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078D7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white)
+<div align="center">
+
+### Languages
+[![Skills](https://skillicons.dev/icons?i=html,css,js,py,cpp,bash,postgres,git,linux,github&theme=dark&perline=10)](https://skillicons.dev)
+
+![HTML5](https://img.shields.io/badge/HTML5-1A120E?style=for-the-badge&logo=html5&logoColor=FFB692)
+![CSS3](https://img.shields.io/badge/CSS3-1A120E?style=for-the-badge&logo=css3&logoColor=FFB692)
+![JavaScript](https://img.shields.io/badge/JavaScript-1A120E?style=for-the-badge&logo=javascript&logoColor=FFB692)
+![Python](https://img.shields.io/badge/Python-1A120E?style=for-the-badge&logo=python&logoColor=FFB692)
+![C++](https://img.shields.io/badge/C++-1A120E?style=for-the-badge&logo=cplusplus&logoColor=FFB692)
+![Bash](https://img.shields.io/badge/Bash_Scripting-1A120E?style=for-the-badge&logo=gnubash&logoColor=FFB692)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1A120E?style=for-the-badge&logo=postgresql&logoColor=FFB692)
+
+### Editor & Shell
+![Neovim](https://img.shields.io/badge/Neovim-1A120E?style=for-the-badge&logo=neovim&logoColor=FFB692)
+![Zsh](https://img.shields.io/badge/Zsh-1A120E?style=for-the-badge&logo=zsh&logoColor=FFB692)
+![Tmux](https://img.shields.io/badge/Tmux-1A120E?style=for-the-badge&logo=tmux&logoColor=FFB692)
+![Kitty](https://img.shields.io/badge/Kitty-1A120E?style=for-the-badge&logo=kitty&logoColor=FFB692)
+
+### Linux & Daily CLI — the Yoru standout
+![Arch](https://img.shields.io/badge/Arch-1A120E?style=for-the-badge&logo=archlinux&logoColor=FFB692)
+![Hyprland](https://img.shields.io/badge/Hyprland-1A120E?style=for-the-badge&logo=hyprland&logoColor=FFB692)
+![GitHub CLI](https://img.shields.io/badge/gh_CLI-1A120E?style=for-the-badge&logo=github&logoColor=FFB692)
+![eza](https://img.shields.io/badge/eza-1A120E?style=for-the-badge&logo=terminal&logoColor=FFB692)
+![fzf](https://img.shields.io/badge/fzf-1A120E?style=for-the-badge&logo=terminal&logoColor=FFB692)
+![bat](https://img.shields.io/badge/bat-1A120E?style=for-the-badge&logo=terminal&logoColor=FFB692)
+![btop](https://img.shields.io/badge/btop-1A120E?style=for-the-badge&logo=terminal&logoColor=FFB692)
+![fastfetch](https://img.shields.io/badge/fastfetch-1A120E?style=for-the-badge&logo=terminal&logoColor=FFB692)
+![Waybar](https://img.shields.io/badge/Waybar-1A120E?style=for-the-badge&logo=wayland&logoColor=FFB692)
+![Rofi](https://img.shields.io/badge/Rofi-1A120E?style=for-the-badge&logo=alfred&logoColor=FFB692)
+![matugen](https://img.shields.io/badge/matugen-1A120E?style=for-the-badge&logo=materialdesign&logoColor=FFB692)
+![uv](https://img.shields.io/badge/uv-1A120E?style=for-the-badge&logo=uv&logoColor=FFB692)
+
+</div>
 
 ---
 
-## 🧩 Currently Learning
+## ⭐ Featured — the Yoru universe + web
 
-![HTML5](https://img.shields.io/badge/HTML5-%23FF5733?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%230095FF?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23FCDC00?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=yellow)
-![C++](https://img.shields.io/badge/C%2B%2B-%2300599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05033?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white)
-![Open Source](https://img.shields.io/badge/Open%20Source-%23FF6F00?style=for-the-badge&logo=opensourceinitiative&logoColor=white)
+<div align="center">
 
----
-
-## 📊 GitHub Stats
 <table>
   <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=ae-orlando&theme=radical&hide_border=true&show_icons=true&include_all_commits=true" alt="GitHub Stats" />
-      <br/>
-      <img src="https://streak-stats.demolab.com?user=ae-orlando&theme=radical&hide_border=true&ring=FF00E6&fire=FF6EC7" alt="GitHub Streak" />
-      <br/>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ae-orlando&theme=radical&hide_border=true&layout=compact" alt="Most Used Languages" />
-    </td>
-    <td>
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=ae-orlando&theme=radical&hide_border=true&area=true&radius=8&width=450" alt="Contribution Graph" />
-    </td>
+    <td width="50%"><a href="https://github.com/ae-orlando/HyprYoru"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ae-orlando&repo=HyprYoru&title_color=FFB692&icon_color=FFB692&text_color=F0DFD8&bg_color=1A120E&hide_border=true&show_owner=true&border_radius=10" alt="HyprYoru" /></a></td>
+    <td width="50%"><a href="https://github.com/ae-orlando/YoruNeovim"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ae-orlando&repo=YoruNeovim&title_color=FFB692&icon_color=FFB692&text_color=F0DFD8&bg_color=1A120E&hide_border=true&show_owner=true&border_radius=10" alt="YoruNeovim" /></a></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://github.com/ae-orlando/fedora-dev-setup-script"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ae-orlando&repo=fedora-dev-setup-script&title_color=FFB692&icon_color=FFB692&text_color=F0DFD8&bg_color=1A120E&hide_border=true&show_owner=true&border_radius=10" alt="fedora-dev-setup-script" /></a></td>
+    <td width="50%"><a href="https://github.com/ae-orlando/bachiruCoffeeHouse"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ae-orlando&repo=bachiruCoffeeHouse&title_color=FFB692&icon_color=FFB692&text_color=F0DFD8&bg_color=1A120E&hide_border=true&show_owner=true&border_radius=10" alt="bachiruCoffeeHouse" /></a></td>
   </tr>
 </table>
 
+</div>
+
+| Project | What it is | Tech |
+|---|---|---|
+| [🌙 HyprYoru](https://github.com/ae-orlando/HyprYoru) | Feature-rich Arch + Hyprland rice. Dynamic wallpaper theming, beautiful UI, terminal follows system. | `Shell` `Hyprland` `matugen` `Waybar` `Rofi` `Kitty` |
+| [🌙 YoruNeovim](https://github.com/ae-orlando/YoruNeovim) | Aesthetic Neovim distro on LazyVim. Matugen system colors + Catppuccin Mocha fallback, full lazy.nvim power. | `Lua` `Neovim` `lazy.nvim` `matugen` |
+| [🛠️ fedora-dev-setup-script](https://github.com/ae-orlando/fedora-dev-setup-script) | Fresh Fedora → full dev env (kitty + zsh) + timestamped backup/rollback script. | `Bash` `Zsh` `Kitty` `Fedora` |
+| [☕ bachiruCoffeeHouse](https://github.com/ae-orlando/bachiruCoffeeHouse) | Coffee-shop landing page — warm, polished, responsive. | `HTML` `CSS` `JavaScript` |
+
+> **How Yoru theming works:** `wallpaper → matugen → hypr + kitty + waybar + rofi + swaync + btop + nvim` in one `set-wall.sh` run. Change wallpaper, whole system repaints. That's the demo worth starring.
+
 ---
 
-### 🎯 Goals & Ambitions
+## 📊 GitHub Dashboard — Yoru themed
 
-![CS Fundamentals](https://img.shields.io/badge/CS%20Fundamentals-%236C63FF?style=for-the-badge&logo=codefactor&logoColor=white)
-![Open Source Contributor](https://img.shields.io/badge/Open%20Source%20Contributor-%23FF6F00?style=for-the-badge&logo=opensourceinitiative&logoColor=white)
-![Side Projects → Startups](https://img.shields.io/badge/Side%20Projects%20%E2%86%92%20Startups-%2300C853?style=for-the-badge&logo=target&logoColor=white)
-![Public Journey](https://img.shields.io/badge/Public%20Journey-%231976D2?style=for-the-badge&logo=github&logoColor=white)
-![Continuous Growth](https://img.shields.io/badge/Continuous%20Growth-%23E91E63?style=for-the-badge&logo=growth&logoColor=white)
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ae-orlando&title_color=FFB692&icon_color=FFB692&text_color=F0DFD8&bg_color=1A120E&hide_border=true&show_icons=true&include_all_commits=true&border_radius=10" alt="GitHub Stats" />
+<img width="49%" src="https://streak-stats.demolab.com?user=ae-orlando&background=1A120E&ring=FFB692&fire=FFB692&currStreakLabel=FFB692&sideLabels=F0DFD8&dates=A08D85&hide_border=true&border_radius=10" alt="Streak" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ae-orlando&title_color=FFB692&text_color=F0DFD8&bg_color=1A120E&hide_border=true&layout=compact&langs_count=8&border_radius=10" alt="Top Languages" />
+<img width="49%" src="https://github-profile-trophy.vercel.app/?username=ae-orlando&theme=gruvbox&no-frame=true&no-bg=false&margin-w=8&row=1&column=6" alt="Trophies" />
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ae-orlando&bg_color=1A120E&color=FFB692&line=FFB692&point=E6BEAC&area=true&hide_border=true" alt="Activity Graph" />
+
+</div>
 
 ---
 
-💬 I'm always open to new opportunities, collaborations, and conversations.  
-If you're working on something interesting — reach out, I'd love to connect.  
+## 🐍 Contributions — snake + 3D
 
-> ✨ _Code. Learn. Build. Repeat._ ✨
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ae-orlando/ae-orlando/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ae-orlando/ae-orlando/output/github-snake.svg" />
+  <img src="https://raw.githubusercontent.com/ae-orlando/ae-orlando/output/github-snake.svg" alt="Contribution snake — runs every 6h, Yoru palette" />
+</picture>
+
+<p><sub>Snake auto-updates via <code>.github/workflows/snake.yml</code> • First run populates after merge</sub></p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-gitblock.svg" />
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution profile — updates daily" />
+</picture>
+
+<p><sub>3D profile auto-updates via <code>.github/workflows/profile-3d.yml</code></sub></p>
+
+</div>
+
+---
+
+## 🧩 Currently Learning & Goals
+
+**Now:** sharpening full-stack (JS → PostgreSQL), Shell scripting depth, CS fundamentals + algorithms, open-source workflow.
+
+**Next:** TypeScript, testing, backend hardening, shipping Yoru to v1.0 + first external contributors.
+
+![CS Fundamentals](https://img.shields.io/badge/CS_Fundamentals-1A120E?style=for-the-badge&logo=codefactor&logoColor=FFB692)
+![Open Source](https://img.shields.io/badge/Open_Source_Contributor-1A120E?style=for-the-badge&logo=opensourceinitiative&logoColor=FFB692)
+![Side → Startup](https://img.shields.io/badge/Side_Projects_→_Startups-1A120E?style=for-the-badge&logo=target&logoColor=FFB692)
+![Public Journey](https://img.shields.io/badge/Building_in_Public-1A120E?style=for-the-badge&logo=github&logoColor=FFB692)
+
+<details>
+<summary><b>💬 Dev quote + joke (click to expand)</b></summary>
+<br/>
+<div align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox" alt="Dev quote" />
+<br/><br/>
+<img src="https://readme-jokes.vercel.app/api?hideBorder=true&bgColor=1A120E&qColor=FFB692&aColor=E6BEAC&textColor=F0DFD8&borderColor=FFB692&codeColor=FFB692" alt="Dev joke" />
+</div>
+</details>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elishaorlando756@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elisha-orlando-a68bb0382)
+[![Instagram](https://img.shields.io/badge/Instagram-FF00A0?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/small_cench)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@CmdOrlando)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+254795637768)
+
+<p>💬 <b>Always open to internships, freelance, collabs & conversations.</b><br/>Working on something interesting — Linux, web, or open-source? Reach out, I'd love to connect.</p>
+
+<code>elishaorlando756@gmail.com</code>
+
+</div>
+
+---
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FFB692&height=120&section=footer" alt="footer" />
+
+<div align="center">
+
+✨ <i>Code. Learn. Build. Repeat.</i> ✨ — <b>🌙 Yoru</b> `#FFB692` on `#1A120E`
+
+</div>
