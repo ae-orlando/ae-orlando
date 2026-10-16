@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FFB692&height=190&section=header&text=Elisha%20Orlando&fontSize=52&fontColor=1A120E&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Software%20Engineer%20%E2%80%A2%20Full-Stack%20%E2%80%A2%20Yoru%20%F0%9F%8C%99&descAlignY=60&descSize=17&fontAlign=center&descAlign=center" alt="header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FFB692&height=190&section=header&text=Elisha%20Orlando&fontSize=52&fontColor=1A120E&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Software%20Engineer%20%E2%80%A2%20Full-Stack%20%E2%80%A2%20%E5%A4%9C%20Yoru%20%F0%9F%8C%99&descAlignY=60&descSize=17&fontAlign=center&descAlign=center" alt="header" />
 
 <div align="center">
 
@@ -63,7 +63,7 @@ DB: PostgreSQL + psql + pgAdmin
 
 ### Languages
 
-[![Skills](https://skillicons.dev/icons?i=html,css,js,py,cpp,bash,postgres,linux&theme=dark&perline=8)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=html,css,js,git,py,cpp,bash,postgres,linux,github&theme=dark&perline=8)](https://skillicons.dev)
 
 ![HTML5](https://img.shields.io/badge/HTML5-1A120E?style=for-the-badge&logo=html5&logoColor=FFB692)
 ![CSS3](https://img.shields.io/badge/CSS3-1A120E?style=for-the-badge&logo=css3&logoColor=FFB692)
@@ -74,8 +74,6 @@ DB: PostgreSQL + psql + pgAdmin
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1A120E?style=for-the-badge&logo=postgresql&logoColor=FFB692)
 
 ### Editor & Shell
-
-[![Coding](https://skillicons.dev/icons?i=git,github,arch,neovim&theme=dark&perline=4)](https://skillicons.dev)
 
 ![Neovim](https://img.shields.io/badge/Neovim-1A120E?style=for-the-badge&logo=neovim&logoColor=FFB692)
 ![Zsh](https://img.shields.io/badge/Zsh-1A120E?style=for-the-badge&logo=zsh&logoColor=FFB692)
@@ -99,7 +97,7 @@ DB: PostgreSQL + psql + pgAdmin
 
 </div>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=FFB692,E6BEAC&height=80" alt="divider" />
 
 ## ⭐ Featured — the Yoru universe + web
 
@@ -127,6 +125,16 @@ DB: PostgreSQL + psql + pgAdmin
 
 > **How Yoru theming works:** `wallpaper → matugen → hypr + kitty + waybar + rofi + swaync + btop + nvim` in one `set-wall.sh` run. Change wallpaper, whole system repaints. That's the demo worth starring.
 
+<details>
+<summary><b>📸 Rice showcase — same setup, two wallpapers (click to expand)</b></summary>
+<br/>
+<div align="center">
+<img width="49%" src="assets/showcase/rice-peach.png" alt="HyprYoru peach theme with YoruNeovim and eza" />
+<img width="49%" src="assets/showcase/rice-mint.png" alt="HyprYoru mint theme with YoruNeovim, fastfetch and SwayNC" />
+<p><sub>Left: peach <code>#FFB692</code> • Right: mint — one <code>set-wall.sh</code> run repaints Hyprland, Kitty, Waybar, Rofi, SwayNC and Neovim</sub></p>
+</div>
+</details>
+
 ---
 
 ## 📊 GitHub Dashboard
@@ -135,27 +143,20 @@ DB: PostgreSQL + psql + pgAdmin
 
 <img width="100%" src="https://github-readme-stats.vercel.app/api?username=ae-orlando&title_color=FFB692&icon_color=FFB692&text_color=F0DFD8&bg_color=1A120E&hide_border=true&show_icons=true&include_all_commits=true&border_radius=10" alt="GitHub Stats" />
 
-<img width="100%" src="https://streak-stats.demolab.com?user=ae-orlando&background=1A120E&ring=FFB692&fire=FFB692&currStreakNum=FFB692&currStreakLabel=FFB692&sideNums=F0DFD8&sideLabels=F0DFD8&dates=A08D85&hide_border=true&border_radius=10" alt="Streak" />
-
-<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ae-orlando&title_color=FFB692&text_color=F0DFD8&bg_color=1A120E&hide_border=true&layout=compact&langs_count=8&border_radius=10" alt="Top Languages" />
+<img width="49%" src="https://streak-stats.demolab.com?user=ae-orlando&background=1A120E&ring=FFB692&fire=FFB692&currStreakNum=FFB692&currStreakLabel=FFB692&sideNums=F0DFD8&sideLabels=F0DFD8&dates=A08D85&hide_border=true&border_radius=10" alt="Streak" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ae-orlando&title_color=FFB692&text_color=F0DFD8&bg_color=1A120E&hide_border=true&layout=compact&langs_count=8&border_radius=10" alt="Top Languages" />
 
 </div>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=FFB692,E6BEAC&height=80" alt="divider" />
 
 ## 🐍 Contributions
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ae-orlando/ae-orlando/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ae-orlando/ae-orlando/output/github-snake.svg" />
-  <img src="https://raw.githubusercontent.com/ae-orlando/ae-orlando/output/github-snake.svg" alt="Contribution snake — runs every 6h, Yoru palette" />
-</picture>
+<img src="https://raw.githubusercontent.com/ae-orlando/ae-orlando/output/ocean.gif" alt="Animated contribution snake — Yoru palette, runs every 6h" width="100%" />
 
 <img src="https://raw.githubusercontent.com/ae-orlando/ae-orlando/main/profile-3d-contrib/profile-night-green.svg" alt="3D contribution profile — updates daily" width="100%" />
-
-<p><sub>3D profile auto-updates via <code>.github/workflows/profile-3d.yml</code></sub></p>
 
 </div>
 
@@ -196,8 +197,6 @@ DB: PostgreSQL + psql + pgAdmin
 
 <p>💬 <b>Always open to internships, freelance, collabs & conversations.</b><br/>Working on something interesting — Linux, web, or open-source? Reach out, I'd love to connect.</p>
 
-<code>elishaorlando756@gmail.com</code>
-
 </div>
 
 ---
@@ -206,6 +205,6 @@ DB: PostgreSQL + psql + pgAdmin
 
 <div align="center">
 
-✨ <i>Code. Learn. Build. Repeat.</i> ✨ — <b>🌙 Yoru</b>
+✨ <i>Code. Learn. Build. Repeat.</i> ✨ — <b>🌙 夜 Yoru</b>
 
 </div>
