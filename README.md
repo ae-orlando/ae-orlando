@@ -139,7 +139,7 @@ DB: PostgreSQL + psql + pgAdmin
 
 <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ae-orlando&title_color=FFB692&text_color=F0DFD8&bg_color=1A120E&hide_border=true&layout=compact&langs_count=8&border_radius=10" alt="Top Languages" />
 
-<div style="background:#1A120E;border-radius:10px;padding:12px;margin-top:8px;">
+<div style="background:#120D0A;border-radius:10px;padding:12px;margin-top:8px;">
 <img width="100%" src="https://ghchart.rshah.org/E76F51/ae-orlando" alt="Contribution Chart — Yoru burnt peach on dark card" />
 </div>
 
