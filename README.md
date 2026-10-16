@@ -139,7 +139,9 @@ DB: PostgreSQL + psql + pgAdmin
 
 <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ae-orlando&title_color=FFB692&text_color=F0DFD8&bg_color=1A120E&hide_border=true&layout=compact&langs_count=8&border_radius=10" alt="Top Languages" />
 
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ae-orlando&theme=github_dark&utcOffset=3" alt="Productive Time — commits by time of day" />
+<div style="background:#1A120E;border-radius:10px;padding:12px;">
+<img width="100%" src="https://ghchart.rshah.org/C2410C/ae-orlando" alt="Contribution Chart — high contrast burnt orange" />
+</div>
 
 </div>
 
