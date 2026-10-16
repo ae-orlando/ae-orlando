@@ -75,12 +75,16 @@ DB: PostgreSQL + psql + pgAdmin
 
 ### Editor & Shell
 
-[![Codding](https://skillicons.dev/icons?i=git,github,arch,neovim&theme=dark&perline=4)](https://skillicons.dev)
+[![Coding](https://skillicons.dev/icons?i=git,github,arch,neovim&theme=dark&perline=4)](https://skillicons.dev)
 
+<br/>
+
+<p>
 ![Neovim](https://img.shields.io/badge/Neovim-1A120E?style=for-the-badge&logo=neovim&logoColor=FFB692)
 ![Zsh](https://img.shields.io/badge/Zsh-1A120E?style=for-the-badge&logo=zsh&logoColor=FFB692)
 ![Tmux](https://img.shields.io/badge/Tmux-1A120E?style=for-the-badge&logo=tmux&logoColor=FFB692)
 ![Kitty](https://img.shields.io/badge/Kitty-1A120E?style=for-the-badge&logo=kitty&logoColor=FFB692)
+</p>
 
 ### Linux & Daily CLI — the Yoru aesthetic
 
@@ -137,9 +141,9 @@ DB: PostgreSQL + psql + pgAdmin
 <img width="49%" src="https://streak-stats.demolab.com?user=ae-orlando&background=1A120E&ring=FFB692&fire=FFB692&currStreakLabel=FFB692&sideLabels=F0DFD8&dates=A08D85&hide_border=true&border_radius=10" alt="Streak" />
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ae-orlando&title_color=FFB692&text_color=F0DFD8&bg_color=1A120E&hide_border=true&layout=compact&langs_count=8&border_radius=10" alt="Top Languages" />
-<img width="49%" src="https://github-profile-trophy.vercel.app/?username=ae-orlando&theme=gruvbox&no-frame=true&no-bg=false&margin-w=8&row=1&column=6" alt="Trophies" />
+<img width="49%" src="https://github-profile-trophy.vercel.app/?username=ae-orlando&theme=gruvbox&no-frame=true&margin-w=8" alt="Trophies" />
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ae-orlando&bg_color=1A120E&color=FFB692&line=FFB692&point=E6BEAC&area=true&hide_border=true" alt="Activity Graph" />
+<img width="100%" src="https://ghchart.rshah.org/FFB692/ae-orlando" alt="Contribution Chart — Yoru peach" />
 
 </div>
 
@@ -155,11 +159,7 @@ DB: PostgreSQL + psql + pgAdmin
   <img src="https://raw.githubusercontent.com/ae-orlando/ae-orlando/output/github-snake.svg" alt="Contribution snake — runs every 6h, Yoru palette" />
 </picture>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-gitblock.svg" />
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution profile — updates daily" />
-</picture>
+<img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution profile — updates daily" width="100%" />
 
 <p><sub>3D profile auto-updates via <code>.github/workflows/profile-3d.yml</code></sub></p>
 
