@@ -77,8 +77,6 @@ DB: PostgreSQL + psql + pgAdmin
 
 [![Coding](https://skillicons.dev/icons?i=git,github,arch,neovim&theme=dark&perline=4)](https://skillicons.dev)
 
-<br/>
-
 <p>
 ![Neovim](https://img.shields.io/badge/Neovim-1A120E?style=for-the-badge&logo=neovim&logoColor=FFB692)
 ![Zsh](https://img.shields.io/badge/Zsh-1A120E?style=for-the-badge&logo=zsh&logoColor=FFB692)
