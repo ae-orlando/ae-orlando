@@ -6,10 +6,7 @@
 
 <p><b>Turning code into tools that make life easier.</b> I build full-stack web experiences and maintain a warm-dark Linux universe — <b>HyprYoru 🌙</b> + <b>YoruNeovim</b> — where every app follows the wallpaper.</p>
 
-<img src="https://komarev.com/ghpvc/?username=ae-orlando&color=FFB692&style=flat-square&label=PROFILE+VIEWS" alt="profile views" />
-<img src="https://img.shields.io/github/followers/ae-orlando?color=FFB692&style=flat-square&label=FOLLOWERS&logo=github" alt="followers" />
-<img src="https://img.shields.io/badge/Open_Source-1A120E?style=flat-square&logo=opensourceinitiative&logoColor=FFB692" alt="open source" />
-<img src="https://img.shields.io/badge/Focus-Full--Stack_%2B_Ricing-1A120E?style=flat-square&logo=target&logoColor=FFB692" alt="focus" />
+<img src="https://img.shields.io/github/followers/ae-orlando?style=flat-square&logo=github&logoColor=FFB692&color=1A120E&labelColor=1A120E" alt="followers" />
 
 </div>
 
@@ -63,7 +60,7 @@ DB: PostgreSQL + psql + pgAdmin
 
 ### Languages
 
-[![Skills](https://skillicons.dev/icons?i=html,css,js,git,py,cpp,bash,postgres,linux,github&theme=dark&perline=8)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=html,css,js,git,py,cpp,bash,postgres,linux,github,markdown&theme=dark&perline=11)](https://skillicons.dev)
 
 ![HTML5](https://img.shields.io/badge/HTML5-1A120E?style=for-the-badge&logo=html5&logoColor=FFB692)
 ![CSS3](https://img.shields.io/badge/CSS3-1A120E?style=for-the-badge&logo=css3&logoColor=FFB692)
@@ -72,6 +69,7 @@ DB: PostgreSQL + psql + pgAdmin
 ![C++](https://img.shields.io/badge/C++-1A120E?style=for-the-badge&logo=cplusplus&logoColor=FFB692)
 ![Bash](https://img.shields.io/badge/Bash_Scripting-1A120E?style=for-the-badge&logo=gnubash&logoColor=FFB692)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1A120E?style=for-the-badge&logo=postgresql&logoColor=FFB692)
+![Markdown](https://img.shields.io/badge/Markdown-1A120E?style=for-the-badge&logo=markdown&logoColor=FFB692)
 
 ### Editor & Shell
 
@@ -79,6 +77,7 @@ DB: PostgreSQL + psql + pgAdmin
 ![Zsh](https://img.shields.io/badge/Zsh-1A120E?style=for-the-badge&logo=zsh&logoColor=FFB692)
 ![Tmux](https://img.shields.io/badge/Tmux-1A120E?style=for-the-badge&logo=tmux&logoColor=FFB692)
 ![Kitty](https://img.shields.io/badge/Kitty-1A120E?style=for-the-badge&logo=kitty&logoColor=FFB692)
+![VSCodium](https://img.shields.io/badge/VSCodium-1A120E?style=for-the-badge&logo=vscodium&logoColor=FFB692)
 
 ### Linux & Daily CLI — the Yoru aesthetic
 
@@ -97,7 +96,7 @@ DB: PostgreSQL + psql + pgAdmin
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=FFB692,E6BEAC&height=80" alt="divider" />
+---
 
 ## ⭐ Featured — the Yoru universe + web
 
@@ -148,7 +147,7 @@ DB: PostgreSQL + psql + pgAdmin
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=FFB692,E6BEAC&height=80" alt="divider" />
+---
 
 ## 🐍 Contributions
 
