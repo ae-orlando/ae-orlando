@@ -145,14 +145,19 @@ DB: PostgreSQL + psql + pgAdmin
 <img width="49%" src="https://streak-stats.demolab.com?user=ae-orlando&background=1A120E&ring=FFB692&fire=FFB692&currStreakNum=FFB692&currStreakLabel=FFB692&sideNums=F0DFD8&sideLabels=F0DFD8&dates=A08D85&hide_border=true&border_radius=10" alt="Streak" />
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ae-orlando&title_color=FFB692&text_color=F0DFD8&bg_color=1A120E&hide_border=true&layout=compact&langs_count=8&border_radius=10" alt="Top Languages" />
 
+</div>
+
+---
 
 ## 🏆️ Trophies
 
+<div align="center">
+    
 <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img src="https://github-profile-trophy.vercel.app/?username=ae-orlando&theme=gruvbox&column=7&row=1&margin-w=8" alt="GitHub Trophies" />
 </a>
 
-</div>
+<\div>
 ---
 
 ## 🐍 Contributions
