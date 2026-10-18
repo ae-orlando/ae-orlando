@@ -14,10 +14,6 @@
 
 ## 🌙 About Me
 
-<table>
-<tr>
-<td>
-
 **🎓 CS student → Software Engineer in progress.** I care about fundamentals, algorithms, and shipping real tools — not just tutorials.
 
 **🧑‍💻 What I do now:**
@@ -28,10 +24,6 @@
 - Building in public, learning open-source
 
 **🎯 Mission:** master the craft, ship impactful projects, build tech with lasting value.
-
-</td>
-</tr>
-</table>
 
 <img src="https://raw.githubusercontent.com/ae-orlando/ae-orlando/live/now.svg" alt="Nairobi — local time, date & weather" width="100%" />
 
