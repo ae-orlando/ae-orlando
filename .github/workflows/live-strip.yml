@@ -1,0 +1,35 @@
+name: Generate Live Strip
+
+on:
+  schedule:
+    - cron: "*/5 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: live-strip
+  cancel-in-progress: true
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate strip
+        run: python3 scripts/generate_live_strip.py now.svg
+
+      # Single-commit orphan branch, force-pushed every run: no history spam,
+      # README embeds it via raw.githubusercontent.com/.../live/now.svg
+      - name: Publish to live branch
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git checkout --orphan live
+          git rm -r --cached . -q
+          git add now.svg
+          git commit -m "update: $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+          git push --force origin live

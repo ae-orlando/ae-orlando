@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FFB692&height=190&section=header&text=Elisha%20Orlando&fontSize=52&fontColor=1A120E&fontFamily=Go%20Mono&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Software%20Engineer%20%E2%80%A2%20Full-Stack%20%E2%80%A2%20%E5%A4%9C%20Yoru%20%F0%9F%8C%99&descAlignY=60&descSize=17&fontAlign=center&descAlign=center" alt="header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FFB692&height=190&section=header&text=Elisha%20Orlando&fontSize=52&fontColor=1A120E&fontFamily=GoMono%20Nerd%20Font%20Mono,monospace&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Software%20Engineer%20%E2%80%A2%20Full-Stack%20%E2%80%A2%20%E5%A4%9C%20Yoru%20%F0%9F%8C%99&descAlignY=60&descSize=17&fontAlign=center&descAlign=center" alt="header" />
 
 <div align="center">
 
@@ -34,23 +34,13 @@
 </td>
 <td width="42%">
 
-```yaml
-# $ fastfetch — yoru
-OS: Arch Linux x86_64
-DE: Hyprland (HyprYoru 🌙)
-Shell: zsh + p10k + fzf + eza
-Editor: YoruNeovim (LazyVim)
-Terminal: kitty + Tmux
-Font: JetBrainsMono Nerd Font
-Theme: Yoru #FFB692 on #1A120E
-Palette: matugen → kitty/waybar/
-    rofi/swaync/nvim sync
-DB: PostgreSQL + psql + pgAdmin
-```
+<img src="assets/terminal-card.svg" alt="Yoru terminal — fastfetch + set-wall.sh repaint demo" width="100%" />
 
 </td>
 </tr>
 </table>
+
+<img src="https://raw.githubusercontent.com/ae-orlando/ae-orlando/live/now.svg" alt="Nairobi — local time, date & weather" width="100%" />
 
 ---
 
