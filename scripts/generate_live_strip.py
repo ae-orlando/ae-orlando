@@ -8,6 +8,7 @@ SVG, and force-pushes it to the orphan `live` branch so the README can embed it
 via raw.githubusercontent.com without depending on any third-party service.
 Weather: open-meteo.com (free, no API key). Timezone: Africa/Nairobi (EAT, UTC+3).
 """
+
 import html
 import json
 import sys
@@ -95,27 +96,25 @@ def build_svg():
             t, _, tail = rest.partition(" ")
             seg_svg += (
                 f'<text x="{x}" y="34" font-size="15" fill="#F0DFD8">'
-                f"{icon} <tspan fill=\"#FFB692\">{esc(t)}</tspan> {esc(tail)}</text>\n"
+                f'{icon} <tspan fill="#FFB692">{esc(t)}</tspan> {esc(tail)}</text>\n'
             )
         else:
-            seg_svg += (
-                f'<text x="{x}" y="34" font-size="15" fill="{fill}">{esc(text)}</text>\n'
-            )
+            seg_svg += f'<text x="{x}" y="34" font-size="15" fill="{fill}">{esc(text)}</text>\n'
     sep_svg = "".join(
         f'<line x1="{x}" y1="14" x2="{x}" y2="42" stroke="#463E37" stroke-width="1"/>\n'
         for x in seps
     )
     weather = (
         f'<text x="936" y="34" font-size="15" text-anchor="end" fill="#F0DFD8">'
-        f"{emoji} <tspan fill=\"#FFB692\">{esc(temp)}</tspan> &#183; {esc(desc)}</text>"
+        f'{emoji} <tspan fill="#FFB692">{esc(temp)}</tspan> &#183; {esc(desc)}</text>'
     )
 
-    return f'''<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 56" width="960" height="56" role="img" aria-label="Nairobi: local time, date and weather">
+    return f"""<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 56" width="960" height="56" role="img" aria-label="Nairobi: local time, date and weather">
   <style>text{{font-family:'GoMono Nerd Font Mono','JetBrains Mono','Go Mono',ui-monospace,monospace;font-weight:400;text-rendering:geometricPrecision;white-space:pre}}</style>
   <rect x="0.5" y="0.5" width="959" height="55" rx="10" fill="#1A120E"/>
   {seg_svg}{sep_svg}  {weather}
 </svg>
-'''
+"""
 
 
 if __name__ == "__main__":

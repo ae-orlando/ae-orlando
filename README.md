@@ -16,7 +16,7 @@
 
 <table>
 <tr>
-<td width="58%">
+<td>
 
 **🎓 CS student → Software Engineer in progress.** I care about fundamentals, algorithms, and shipping real tools — not just tutorials.
 
@@ -28,13 +28,6 @@
 - Building in public, learning open-source
 
 **🎯 Mission:** master the craft, ship impactful projects, build tech with lasting value.
-
-**📍 Nairobi, KE (EAT) • Open to internships, collabs & open-source**
-
-</td>
-<td width="42%">
-
-<img src="assets/terminal-card.svg" alt="Yoru terminal — fastfetch + set-wall.sh repaint demo" width="100%" />
 
 </td>
 </tr>
@@ -142,7 +135,7 @@
 ## 🏆️ Trophies
 
 <div align="center">
-    
+
 <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img src="https://github-profile-trophy.vercel.app/?username=ae-orlando&theme=gruvbox&column=7&row=1&margin-w=8" alt="GitHub Trophies" />
 </a>
