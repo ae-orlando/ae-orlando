@@ -178,7 +178,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elishaorlando756@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elisha-orlando-a68bb0382)
 [![Instagram](https://img.shields.io/badge/Instagram-FF00A0?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/small_cench)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@CmdOrlando)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@dotyoru)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+254795637768)
 
 <p>💬 <b>Always open to internships, freelance, collabs & conversations.</b><br/>Working on something interesting — Linux, web, or open-source? Reach out, I'd love to connect.</p>
