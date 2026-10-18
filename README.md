@@ -157,7 +157,7 @@ DB: PostgreSQL + psql + pgAdmin
   <img src="https://github-profile-trophy.vercel.app/?username=ae-orlando&theme=gruvbox&column=7&row=1&margin-w=8" alt="GitHub Trophies" />
 </a>
 
-<\div>
+</div>
 ---
 
 ## 🐍 Contributions
