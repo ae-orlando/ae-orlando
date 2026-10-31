@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 56" width="960" height="56" role="img" aria-label="Nairobi: local time, date and weather">
+  <style>text{font-family:'GoMono Nerd Font Mono','JetBrains Mono','Go Mono',ui-monospace,monospace;font-weight:400;text-rendering:geometricPrecision;white-space:pre}</style>
+  <rect x="0.5" y="0.5" width="959" height="55" rx="10" fill="#1A120E"/>
+  <text x="26" y="34" font-size="15" fill="#F0DFD8">📍 Nairobi, Kenya</text>
+<text x="276" y="34" font-size="15" fill="#F0DFD8">🕐 <tspan fill="#FFB692">17:29</tspan> EAT</text>
+<text x="494" y="34" font-size="15" fill="#F0DFD8">📅 Sat, Oct 31</text>
+<line x1="252" y1="14" x2="252" y2="42" stroke="#463E37" stroke-width="1"/>
+<line x1="470" y1="14" x2="470" y2="42" stroke="#463E37" stroke-width="1"/>
+<line x1="668" y1="14" x2="668" y2="42" stroke="#463E37" stroke-width="1"/>
+  <text x="936" y="34" font-size="15" text-anchor="end" fill="#F0DFD8">🌦 <tspan fill="#FFB692">21°C</tspan> &#183; Rain showers</text>
+</svg>
